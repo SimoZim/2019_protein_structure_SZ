@@ -4,10 +4,10 @@ START: Milestones (MS) and Workpagages (WP) for this project
 -----------------------------------------------------------------------
 
 MS1: overview and structure of the project
-	 -required steps: WP11, WP12
-	 -responsibility: executing person
-	 -time/duration: 3 - 4.5 h
-	 -proof of MS1: folder-structure
+	 /required steps: WP11, WP12
+	 /responsibility: executing person
+	 /time/duration: 3 - 4.5 h
+	 /proof of MS1: folder-structure
 
 
 	WP11:	brainstorming for the directory-structure for this project:
