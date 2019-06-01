@@ -24,10 +24,10 @@ MS1: overview and structure of the project
 -----------------------------------------------------------------------			
 
 MS2: 50 random downloaded files of proteins
-	 required steps: WP21, WP22, WP23 
-	 responsibility: executing person
-	 time/duration: 5 - 8.5 h
-	 proof of MS2: 50 pdb-files
+	 /required steps: WP21, WP22, WP23 
+	 /responsibility: executing person
+	 /time/duration: 5 - 8.5 h
+	 /proof of MS2: 50 pdb-files
 		
 	WP21:	literature research:	
 				What is PDB?
@@ -48,10 +48,10 @@ MS2: 50 random downloaded files of proteins
 -----------------------------------------------------------------------			
 
 MS3: table with the frequencies of amino-acids in proteins relative to the possible structures
-	 required steps: WP31, WP32, WP33 
-	 responsibility: executing person
-	 time/duration: 2.5 - 4.5 h
-	 proof of MS3: csv-file
+	 /required steps: WP31, WP32, WP33 
+	 /responsibility: executing person
+	 /time/duration: 2.5 - 4.5 h
+	 /proof of MS3: csv-file
 
 	WP31:	literature research:
 				Possible amino-acids in proteins?
@@ -72,10 +72,10 @@ MS3: table with the frequencies of amino-acids in proteins relative to the possi
 -----------------------------------------------------------------------			
 
 MS4: visualisation of the table of MS3
-	 required steps: WP41, WP42
-	 responsibility: executing person
-	 time/duration: 2 - 5 h
-	 proof of MS4: plot
+	 /required steps: WP41, WP42
+	 /responsibility: executing person
+	 /time/duration: 2 - 5 h
+	 /proof of MS4: plot
 	 
 	WP41:	literature research:
 	 			Is it possible to plot it with Biopython?
@@ -90,10 +90,10 @@ MS4: visualisation of the table of MS3
 -----------------------------------------------------------------------				
 
 MS5: validation of the results
-	 required steps: WP51, WP52
-	 responsibility: executing person
-	 time/duration: 3.5 - 4.5 h
-	 proof of MS5: approval of the results
+	 /required steps: WP51, WP52
+	 /responsibility: executing person
+	 /time/duration: 3.5 - 4.5 h
+	 /proof of MS5: approval of the results
 
 	WP51:	control of the workflow of the project:
 				Was each step performed without errors?
@@ -110,10 +110,10 @@ MS5: validation of the results
 -----------------------------------------------------------------------
 
 MS6: close of the project
-	 required steps: WP61, WP62
-	 responsibility: executing person
-	 time/duration: 2.5 - 6 h
-	 proof of MS6: report/presentation of the project
+	 /required steps: WP61, WP62
+	 /responsibility: executing person
+	 /time/duration: 2.5 - 6 h
+	 /proof of MS6: report/presentation of the project
 	 
 	 WP61:	control if MS5 is finished:
 				Is the approval of the results available?
