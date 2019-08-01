@@ -1,6 +1,0 @@
-# link from the Protein Data Bank:
-http://www.rcsb.org/ 
-
-
-# link from Biopython:
-https://biopython.org/wiki/The_Biopython_Structural_Bioinformatics_FAQ
