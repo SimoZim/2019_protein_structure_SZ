@@ -118,7 +118,7 @@ MS6: close of the project
 				Is the approval of the results available?
 			time/duration: 0.5 - 1 h
 	
-	WP62:	writing a report or/and presentation:
+	 WP62:	writing a report or/and presentation:
 				How to summarize the results of the whole project?
 				How to interpret the results?
 				How to write in an understandable form?
