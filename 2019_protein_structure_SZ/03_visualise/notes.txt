@@ -1,9 +1,0 @@
-notes for 03_visualise
-
-bin: script to create a plot for visualisation of the .csv-file of 02_parse_pdb_files/results
-
-data: input data to plot the .csv-file (but here it is emty because I have in the 01_run.sh-script the symbolic link to the .csv-file from 02_parse_pdb_files/results
-
-results: plot of the .csv-file from 02_parse_pdb_files/results
-
-01_run.sh: driver script to perform all the required steps of 03_visualise
