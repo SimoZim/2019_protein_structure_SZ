@@ -1,0 +1,9 @@
+notes for 02_parse_pdb_files
+
+bin: script for parsing the .pdb-files of 01_getdownload/results and the .gz-files of 2019_protein_structure_SZ/data and calculating the relative frequencies of secondary structure of the AA
+
+data: input data for parsing the .pdb-files (but here it is emty because I have in the 01_run.sh-script the symbolic links to the .pdb-files of 01_getdownload and to the .gz-files of 2019_protein_structure_SZ/data)
+ 
+results: calculated relative frequencies in a .csv-file
+
+01_run.sh: driver script to perform all the required steps of 02_parse_pdb_files
